@@ -18,7 +18,7 @@ It is based on and inspired from:<br>
 
 
 # Firmware
-Download and build the <a href="https://github.com/Dlloydev/jtag2updi/releases">latest release</a>.
+Download, build and flash the <a href="https://github.com/Dlloydev/jtag2updi/releases">latest release</a> by Dlloydev.
 
 
 # Example
