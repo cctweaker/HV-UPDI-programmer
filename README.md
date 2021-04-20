@@ -24,3 +24,5 @@ Download, build and flash the <a href="https://github.com/Dlloydev/jtag2updi/rel
 # Example
 <img src="https://github.com/cctweaker/HV-UPDI-programmer/blob/main/example top.jpg?raw=true">
 <img src="https://github.com/cctweaker/HV-UPDI-programmer/blob/main/example bottom.jpg?raw=true">
+
+The battery holder stl file (as pictured above) is included and can be printed at 0.3mm height with a 0.4mm nozzle.
