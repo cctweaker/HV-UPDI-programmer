@@ -9,12 +9,12 @@ This project constitutes the hardware needed to program UPDI capable microcontro
 
 It uses a 12V type A23 battery for the 12V HV source.
 Can itself be programmed by UPDI or serial bootloader.
-Uses the classic Arduino serial connection with DRT reset.
+Uses the classic Arduino serial connection with DTR reset.
 
-It is based on and inspired from:
-<a href="https://github.com/Dlloydev/jtag2updi">Dlloydev jtag2updi</a>
-<a href="https://github.com/SpenceKonde/jtag2updi">SpenceKonde jtag2updi</a>
-<a href="https://github.com/ElTangas/jtag2updi">ElTangas jtag2updi</a>
+It is based on and inspired from:<br>
+<a href="https://github.com/Dlloydev/jtag2updi">Dlloydev jtag2updi</a><br>
+<a href="https://github.com/SpenceKonde/jtag2updi">SpenceKonde jtag2updi</a><br>
+<a href="https://github.com/ElTangas/jtag2updi">ElTangas jtag2updi</a><br>
 
 
 # Firmware
