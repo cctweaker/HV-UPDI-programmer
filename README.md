@@ -22,5 +22,5 @@ Download and build the <a href="https://github.com/Dlloydev/jtag2updi/releases">
 
 
 # Example
-<img src="https://github.com/cctweaker/HV-UPDI-programmer/blob/master/example top.jpg?raw=true">
-<img src="https://github.com/cctweaker/HV-UPDI-programmer/blob/master/example bottom.jpg?raw=true">
+<img src="https://github.com/cctweaker/HV-UPDI-programmer/blob/main/example top.jpg?raw=true">
+<img src="https://github.com/cctweaker/HV-UPDI-programmer/blob/main/example bottom.jpg?raw=true">
